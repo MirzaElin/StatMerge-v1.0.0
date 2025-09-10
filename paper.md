@@ -11,7 +11,7 @@ authors:
   - orcid: https://orcid.org/0000-0001-9577-7821
     affiliation: 1
 affiliations:
-  - name: AMAL Youth & Family Centre, St. John's, NL, Canada
+  - name: Kharkiv National Medical University, Kharkiv, Ukraine 
     index: 1
 date: 2025-09-10
 bibliography: paper.bib
