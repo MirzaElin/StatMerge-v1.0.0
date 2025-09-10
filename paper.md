@@ -10,8 +10,8 @@ authors:
   - name: Mirza Niaz Zaman Elin
   - orcid: https://orcid.org/0000-0001-9577-7821
     affiliation: 1
-affiliations:
-  - name: Kharkiv National Medical University, Kharkiv, Ukraine 
+affiliation:
+  - name: AMAL Youth and Family Centre, St. John's, NL, Canada 
     index: 1
 date: 2025-09-10
 bibliography: paper.bib
