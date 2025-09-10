@@ -6,7 +6,7 @@ tags:
   - reliability
   - agreement
   - reproducibility
-authors:
+author:
   - name: Mirza Niaz Zaman Elin
   - orcid: https://orcid.org/0000-0001-9577-7821
     affiliation: 1
