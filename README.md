@@ -16,3 +16,6 @@ statmerge
 - Agreement metrics: confusion-derived measures, Fleiss' kappa, ICC(2,1), ROC/PR helpers.
 - Effect sizes: Cohen's d, Hedges' g.
 - GUI: launch EMTAS and Statilytics; Data Lab for quick EDA (CSV preview, describe, correlation, plots, DOCX report).
+
+## License 
+Custom © 2025 Mirza Niaz Zaman Elin.
